@@ -1,0 +1,14 @@
+name: block
+main: TR8697\Main
+api: 4.0.0
+version: 1
+author: TR8697
+
+permissions:
+  totel.use:
+    default: true
+
+commands:
+  kblock:
+    description: Oyuncuların listesini gösterir.
+    permission: "totel.use"
